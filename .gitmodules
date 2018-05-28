@@ -1,0 +1,3 @@
+[submodule "cmcc-common"]
+	path = cmcc-common
+	url = git://github.com/guofazhan/cmcc-common.git
